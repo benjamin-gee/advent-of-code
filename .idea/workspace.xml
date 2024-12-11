@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4dd374be-bfac-4f5a-a972-4a4da9328482" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pfWvIUHxPBuVzuBezwTHFsyTIg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build github.com/benjamin-gee/advent-of-code/2024/1.executor": "Run",
+    "Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01.executor": "Run",
+    "Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02.executor": "Run",
+    "Go Test.TestSolution in github.com/benjamin-gee/advent-of-code/pkg/2024/day01.executor": "Run",
+    "Go Test.TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01.executor": "Run",
+    "Go Test.TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02.executor": "Run",
+    "Go Test.TestSolvePart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/benjamingee/src/advent-of-code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd/2024" />
+      <recent name="$PROJECT_DIR$/pkg/2024/day01" />
+      <recent name="$PROJECT_DIR$/cmd/2024/day01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GoApplicationRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02">
+    <configuration name="go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/benjamin-gee/advent-of-code/cmd/2024/day01" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/2024/day01/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/benjamin-gee/advent-of-code/cmd/2024/day02" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/2024/day02/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code" />
+      <working_directory value="$PROJECT_DIR$/pkg/2024/day01" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/benjamin-gee/advent-of-code/pkg/2024/day01" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSolutionPart2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code" />
+      <working_directory value="$PROJECT_DIR$/pkg/2024/day02" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSolvePart1\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSolvePart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="advent-of-code" />
+      <working_directory value="$PROJECT_DIR$/pkg/2024/day02" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSolvePart2\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02" />
+        <item itemvalue="Go Test.TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
+        <item itemvalue="Go Test.TestSolvePart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
+        <item itemvalue="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01" />
+        <item itemvalue="Go Test.TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-b87a2f8923ed-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.21565.208" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-GO-243.21565.208" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
