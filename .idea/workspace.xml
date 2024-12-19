@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dd374be-bfac-4f5a-a972-4a4da9328482" name="Changes" comment="" />
+    <list default="true" id="4dd374be-bfac-4f5a-a972-4a4da9328482" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     "Go Build.go build github.com/benjamin-gee/advent-of-code/2024/1.executor": "Run",
     "Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01.executor": "Run",
     "Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02.executor": "Run",
+    "Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day03.executor": "Run",
     "Go Test.TestSolution in github.com/benjamin-gee/advent-of-code/pkg/2024/day01.executor": "Run",
     "Go Test.TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01.executor": "Run",
     "Go Test.TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02.executor": "Run",
@@ -71,7 +74,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02">
+  <component name="RunManager" selected="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day03">
     <configuration name="go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="advent-of-code" />
       <working_directory value="$PROJECT_DIR$" />
@@ -90,16 +93,13 @@
       <filePath value="$PROJECT_DIR$/cmd/2024/day02/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/benjamin-gee/advent-of-code/cmd/2024/day03" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="advent-of-code" />
-      <working_directory value="$PROJECT_DIR$/pkg/2024/day01" />
-      <root_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="github.com/benjamin-gee/advent-of-code/pkg/2024/day01" />
+      <package value="github.com/benjamin-gee/advent-of-code/cmd/2024/day03" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <pattern value="^\QTestSolutionPart2\E$" />
+      <filePath value="$PROJECT_DIR$/cmd/2024/day03/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day03" />
         <item itemvalue="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day02" />
         <item itemvalue="Go Test.TestSolvePart1 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
         <item itemvalue="Go Test.TestSolvePart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day02" />
         <item itemvalue="Go Build.go build github.com/benjamin-gee/advent-of-code/cmd/2024/day01" />
-        <item itemvalue="Go Test.TestSolutionPart2 in github.com/benjamin-gee/advent-of-code/pkg/2024/day01" />
       </list>
     </recent_temporary>
   </component>
